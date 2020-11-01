@@ -7,7 +7,7 @@ using Plots
 
 #=
 Author: Daksh Aggarwal
-Code for CSC 395 project "Robust Max Flows"
+Code for project "Robust Max Flows"
 Date: 18 October 2020
 
 Note: Some simple examples to call different functions and running experiments are 
